@@ -1,0 +1,13 @@
+body{
+background-color: #F5F5DC ;
+}
+
+table,thead,body,tr,td{
+	font-family:"Arial, Helvetica, sans-serif"
+	border: 2px solid black;
+	color: black;
+	margin: 25px auto;
+}
+
+
+	
